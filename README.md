@@ -95,9 +95,5 @@ The code for this project is available on the following link:
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
 
 
